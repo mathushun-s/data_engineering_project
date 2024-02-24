@@ -1,3 +1,5 @@
+Python script that performs data analysis and visualisation on data from network monitoring traffic from a real-time audio-video application. The data represents information on RTP (Real Time Protocol) packets.
+
 #Description explaining the data sets can be found in 'data_description_problem1.pdf'
 
 This code reads the contents of both data sets from 'targetA.csv' and 'targetB.csv' and make these available

@@ -1,4 +1,5 @@
-#Descriptions explaining the data sets can be found in 'data_description_problem1.pdf'
+#Description explaining the data sets can be found in 'data_description_problem1.pdf'
+
 The code read the contents of both data sets from 'targetA.csv' and 'targetB.csv' and make these available
 in two seperate numpy arrays.
 ▪ Graph1: sequence numbers over time. In this graph time values (from

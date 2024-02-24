@@ -1,12 +1,12 @@
 #Description explaining the data sets can be found in 'data_description_problem1.pdf'
 
-The code read the contents of both data sets from 'targetA.csv' and 'targetB.csv' and make these available
+This code reads the contents of both data sets from 'targetA.csv' and 'targetB.csv' and make these available
 in two seperate numpy arrays.
-▪ Graph1: sequence numbers over time. In this graph time values (from
+- Graph1: sequence numbers over time. In this graph time values (from
 column B) are on the x-axis, and the sequence numbers are
 be on the y-axis. The sequence numbers can be found in column G of
 the datasets.
-▪ Graph2: probabilities of packet lengths. You will notice that packets
+- Graph2: probabilities of packet lengths. You will notice that packets
 listed in the targetA.csv file take one of a limited number of
 possible packet length (packet length is given in column F). For this
 graph you can create a scatterplot, or use a bar chart, or use a
